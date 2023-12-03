@@ -57,4 +57,4 @@
 ### Additional information
  - [hh profile](https://hh.ru/resume/9e2c433aff094107050039ed1f79784c596452)
  - [Certificates (English / OOP / SOLID / Git)](https://hh.ru/resume/9e2c433aff094107050039ed1f79784c596452)
- - Pet projects
+ - [Pet projects]( https://github.com/VladimirMeshcherekov/main/blob/master/PetProjectsInfo.md) 
